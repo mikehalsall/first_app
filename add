@@ -1,0 +1,5 @@
+def add
+x=10
+y=15
+z=x+y
+puts z
